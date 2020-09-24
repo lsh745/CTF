@@ -1,6 +1,6 @@
 # [HackCTF] Smooth CipherText
 
-![download (2)](/Users/lsh/Desktop/download (2).png)
+![download (2)]((https://github.com/lsh745/CTF/blob/master/HackCTF/pic/download (2).png))
 
 It seems to be Vigenere Cipher. Because its IC is 0.04372. Which means it will be a polyalphabetic cipher. but I don't know the key. However, I know this CTFs flag format. it means LymoADJ in the given data is HackCTF. as this ciphertext is encrypted by Vigener Cipher, I'd better think these alphabets to numbers. Like A = 0, B = 1, C = 2,... Y = 24, Z = 25.
 
@@ -48,4 +48,4 @@ One step advanced to the decryption. Now I'll use this key to the ciphertext.
 
 **SPOILER ALERT. FLAG INCLUDED**
 
-![download (3)](/Users/lsh/Desktop/download (3).png)
+![download (3)](https://github.com/lsh745/CTF/blob/master/HackCTF/pic/download (3).png)
