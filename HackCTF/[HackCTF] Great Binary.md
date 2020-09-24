@@ -1,6 +1,6 @@
 # [HackCTF] Great Binary
 
-https://github.com/lsh745/CTF/blob/master/HackCTF/pic/download.png
+![download](https://github.com/lsh745/CTF/blob/master/HackCTF/pic/download.png)
 
 I found the data from the attached zip file.
 
@@ -26,6 +26,4 @@ and this is the result.
 
 **SPOILER ALERT. FLAG INCLUDED**
 
-
-
-https://github.com/lsh745/CTF/blob/master/HackCTF/pic/download(1).png
+![download (1)](https://github.com/lsh745/CTF/blob/master/HackCTF/pic/download(1).png)
