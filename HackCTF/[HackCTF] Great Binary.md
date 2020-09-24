@@ -1,6 +1,6 @@
 # [HackCTF] Great Binary
 
-![download](/Users/lsh/Desktop/download.png)
+https://github.com/lsh745/CTF/blob/master/HackCTF/pic/download.png
 
 I found the data from the attached zip file.
 
@@ -28,4 +28,4 @@ and this is the result.
 
 
 
-![download (1)](/Users/lsh/Desktop/download (1).png)
+https://github.com/lsh745/CTF/blob/master/HackCTF/pic/download(1).png
