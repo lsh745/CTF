@@ -43,8 +43,6 @@ Do the same with rest ciphertext.
 
 ***\*SPOILER ALERT. FLAG INCLUDED\****
 
-닫기
-
 ```
 inp = "hreCp1_ev_s117nr_ys17eer132n_5"
 key = input()
